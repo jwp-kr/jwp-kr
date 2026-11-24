@@ -62,4 +62,4 @@ More projects will be added as I continue learning.
 ### Contact
 
 - GitHub: [@jwp-kr](https://github.com/jwp-kr)
-- Email: Omit
+- Email: will be updated soon
