@@ -1,8 +1,8 @@
 # Hi, I'm [Jeongwon Park] 👋
 
-**Computer Science Student | Aspiring Cybersecurity Expert**
+**Computer Engineering Student | Aspiring Cybersecurity Professional**
 
-I have been studying computer engineering since 2023.
+I have been pursuing a degree in Computer Engineering since 2023.
 
 I enjoy understanding how software works under the hood and strengthening my technical skills through continuous learning and hands-on practice.
 
@@ -10,7 +10,7 @@ I enjoy understanding how software works under the hood and strengthening my tec
 
 ### About Me
 
-- 🎓 Computer Science Undergraduate
+- 🎓 Computer Engineering Undergraduate
 - 💻 Interested in Software Engineering and Systems
 - 🔐 Exploring Cybersecurity
 - 📚 Focused on programming fundamentals, algorithms, and computer systems
@@ -18,7 +18,7 @@ I enjoy understanding how software works under the hood and strengthening my tec
 ### Education & Experience
 
 **Hankuk University of Foreign Studies (HUFS)**  
-B.S. in Computer Science  
+B.S. in Computer Engineering  
 2023 – Present
 
 ### Tech Stack
@@ -62,4 +62,4 @@ More projects will be added as I continue learning.
 ### Contact
 
 - GitHub: [@jwp-kr](https://github.com/jwp-kr)
-- Email: will update soon
+- Email: Omit
