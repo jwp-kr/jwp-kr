@@ -2,7 +2,7 @@
 
 **Computer Science Student | Aspiring Cybersecurity Expert**
 
-I'm a second-year Computer Science student.
+I have been studying computer engineering since 2023.
 
 I enjoy understanding how software works under the hood and strengthening my technical skills through continuous learning and hands-on practice.
 
@@ -14,6 +14,12 @@ I enjoy understanding how software works under the hood and strengthening my tec
 - 💻 Interested in Software Engineering and Systems
 - 🔐 Exploring Cybersecurity
 - 📚 Focused on programming fundamentals, algorithms, and computer systems
+
+### Education
+
+**Hankuk University of Foreign Studies (HUFS)**  
+B.S. in Computer Science  
+2023 – Present
 
 ### Tech Stack
 
