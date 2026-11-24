@@ -15,7 +15,7 @@ I enjoy understanding how software works under the hood and strengthening my tec
 - 🔐 Exploring Cybersecurity
 - 📚 Focused on programming fundamentals, algorithms, and computer systems
 
-### Education
+### Education & Experience
 
 **Hankuk University of Foreign Studies (HUFS)**  
 B.S. in Computer Science  
@@ -61,5 +61,5 @@ More projects will be added as I continue learning.
 
 ### Contact
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: YOUR_EMAIL
+- GitHub: [@jwp-kr](https://github.com/jwp-kr)
+- Email: will update soon
