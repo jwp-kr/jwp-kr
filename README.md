@@ -8,50 +8,17 @@ I enjoy understanding how software works under the hood and strengthening my tec
 
 ---
 
-### About Me
-
-- 🎓 Computer Engineering Undergraduate
-- 💻 Interested in Software Engineering and Systems
-- 🔐 Exploring Cybersecurity
-- 📚 Focused on programming fundamentals, algorithms, and computer systems
-
 ### Education & Experience
 
 **Hankuk University of Foreign Studies (HUFS)**  
 B.S. in Computer Engineering  
 2023 – Present
 
-### Tech Stack
-
-**Languages**
-- C++
-- Python
-- SQL
-
-**Tools & Technologies**
-- Git & GitHub
-- Linux
-- Computer Networking
-
-### Currently Learning
-
-- Data Structures & Algorithms
-- Operating Systems and Linux
-- Computer Networks
-- Cybersecurity
-
-### Certifications
-
-- SQL Developer (SQLD)
-- Network Administrator Level 2
-- Craftsman Programming
-
 ### Interests
 
 - Systems Programming
 - Software Engineering
-- Network Security
-- Cybersecurity
+- Cybersecurity (Network Security, Reverse Engineering, and more)
 
 ### Projects
 
